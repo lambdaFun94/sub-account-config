@@ -1,0 +1,83 @@
+{
+  "$id": "1633753833297642956",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Piedmont",
+      "countryCode": "US",
+      "line1": "238 La Salle Avenue",
+      "postalCode": "94610",
+      "region": "CA"
+    },
+    "c_generatedDescription": "Enterprise SaaS Technologies is a technology company based in Piedmont, focused on creating high-performance solutions for fast websites. Their innovative approach allows businesses to improve their online presence with cutting-edge tools and services.",
+    "hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "keywords": [
+      "technology, high-performance, fast websites"
+    ],
+    "mainPhone": "+13474919787",
+    "name": "Enterprise SaaS Technologies",
+    "slug": "[[name]]",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

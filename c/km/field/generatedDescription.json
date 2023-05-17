@@ -1,0 +1,41 @@
+{
+  "$id": "c_generatedDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Generated Description",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string",
+  "computedValueDetails": {
+    "computationMethods": [
+      {
+        "contentGenerationConfig": {
+          "computationId": "businessDescription",
+          "inputs": {
+            "additionalInformation": {
+              "defaultValue": "Generate a business description on the basis of these keywords: [[keywords]]\nThe business is located in:   [[address.city]]",
+              "localizations": []
+            },
+            "maxLength": {
+              "defaultValue": "60 words",
+              "localizations": []
+            },
+            "name": {
+              "defaultValue": "[[name]]",
+              "localizations": []
+            },
+            "numParas": {
+              "defaultValue": 1,
+              "localizations": []
+            }
+          }
+        }
+      }
+    ]
+  }
+}
