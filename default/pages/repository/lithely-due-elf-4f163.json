@@ -1,5 +1,5 @@
 {
-  "$id": "lithely-due-elf-4f163",
+  "$id": "{{repoId}}",
   "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/lambdaFun94/blue-template-fleet"
+  "repoUrl": "{{gitHubUrl}}"
 }

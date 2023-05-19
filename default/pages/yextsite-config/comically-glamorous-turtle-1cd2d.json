@@ -1,8 +1,8 @@
 {
-  "$id": "comically-glamorous-turtle-1cd2d",
+  "$id": "{{siteId}}",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
-  "siteName": "Blue Template",
-  "repoConfig": "lithely-due-elf-4f163",
+  "siteName": "{{siteName}}",
+  "repoConfig": "{{repoId}}",
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
